@@ -1,5 +1,17 @@
 # fb-sleep-stats: Using Facebook to track your friends' sleep
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/yongjhih/fb-sleep-stats.svg)](https://hub.docker.com/r/yongjhih/fb-sleep-stats/)
+[![Docker Stars](https://img.shields.io/docker/stars/yongjhih/fb-sleep-stats.svg)](https://hub.docker.com/r/yongjhih/fb-sleep-stats/)
+[![Docker Size](https://img.shields.io/imagelayers/image-size/yongjhih/fb-sleep-stats/latest.svg)](https://imagelayers.io/?images=yongjhih/fb-sleep-stats:latest)
+[![Docker Layers](https://img.shields.io/imagelayers/layers/yongjhih/fb-sleep-stats/latest.svg)](https://imagelayers.io/?images=yongjhih/fb-sleep-stats:latest)
+[![Docker Tag](https://img.shields.io/github/tag/yongjhih/docker-fb-sleep-stats.svg)](https://hub.docker.com/r/yongjhih/fb-sleep-stats/tags/)
+[![License](https://img.shields.io/github/license/yongjhih/docker-fb-sleep-stats.svg)](https://github.com/yongjhih/docker-fb-sleep-stats/raw/master/LICENSE)
+[![Travis CI](https://img.shields.io/travis/yongjhih/docker-fb-sleep-stats.svg)](https://travis-ci.org/yongjhih/docker-fb-sleep-stats)
+[![Gitter Chat](https://img.shields.io/gitter/room/yongjhih/docker-fb-sleep-stats.svg)](https://gitter.im/yongjhih/docker-fb-sleep-stats)
+
+[![Deploy to Docker Cloud](https://github.com/yongjhih/docker-parse-server/raw/master/art/deploy-to-docker-cloud.png)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/yongjhih/docker-fb-sleep-stats)
+[![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/?repo=https://github.com/yongjhih/docker-fb-sleep-stats)
+
 A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep pattern.
 
 Read the blog post: https://medium.com/@sqrendk/how-you-can-use-facebook-to-track-your-friends-sleeping-habits-505ace7fffb6
