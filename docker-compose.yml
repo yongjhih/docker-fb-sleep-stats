@@ -5,6 +5,8 @@ fb-sleep-stats:
     POLLING_INTERVAL: $POLLING_INTERVAL
     APP_ID: $APP_ID
     PORT: 3000
+    FB_USER_ID: $FB_USER_ID
+    FB_COOKIE: $FB_COOKIE
   ports:
     - "3000:3000"
 
