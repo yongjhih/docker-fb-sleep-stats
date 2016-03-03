@@ -2,10 +2,10 @@ FROM node:latest
 
 ENV FB_SLEEP_STATS_HOME /fb-sleep-stats
 ADD . $FB_SLEEP_STATS_HOME
-ADD config/default.json $FB_SLEEP_STATS_HOME/config/development.json
 WORKDIR $FB_SLEEP_STATS_HOME
 
-RUN npm install
+RUN npm install && \
+    npm run webpack
 
 ENV TINI_VERSION v0.9.0
 ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /
