@@ -18,6 +18,12 @@ Read the blog post: https://medium.com/@sqrendk/how-you-can-use-facebook-to-trac
 
 ![Facebook Sleep Screenshot](https://cloud.githubusercontent.com/assets/209966/13382859/b7b31aa4-de7e-11e5-8fca-35d68fe2f02f.png)
 
+## Usage
+
+```sh
+FB_USER_ID={fb_user_id} docker-compose up
+```
+
 
 ## Installation
 
