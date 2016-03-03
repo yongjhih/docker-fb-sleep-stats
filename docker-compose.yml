@@ -1,6 +1,6 @@
 fb-sleep-stats:
-  #build: .
-  image: yongjhih/fb-sleep-stats
+  build: .
+  #image: yongjhih/fb-sleep-stats
   environment:
     POLLING_INTERVAL: $POLLING_INTERVAL
     APP_ID: $APP_ID
