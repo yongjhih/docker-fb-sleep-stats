@@ -3,9 +3,9 @@
         "c_user": "",
         "xs": ""
     },
-    "pollingInterval": 600,
-    "appId": 435522656639081,
+    "pollingInterval": $POLLING_INTERVAL,
+    "appId": $APP_ID,
     "server": {
-        "port": 3000
+        "port": $PORT
     }
 }

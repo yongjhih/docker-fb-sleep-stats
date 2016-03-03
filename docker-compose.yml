@@ -1,0 +1,11 @@
+fb-sleep-stats:
+  #build: .
+  image: yongjhih/fb-sleep-stats
+  environment:
+    POLLING_INTERVAL: $POLLING_INTERVAL
+    APP_ID: $APP_ID
+    PORT: 3000
+  ports:
+    - "3000:3000"
+
+# vim:set et ts=2 sw=2:
