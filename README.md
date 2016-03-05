@@ -1,5 +1,7 @@
 # fb-sleep-stats: Using Facebook to track your friends' sleep
 
+[![Join the chat at https://gitter.im/yongjhih/docker-fb-sleep-stats](https://badges.gitter.im/yongjhih/docker-fb-sleep-stats.svg)](https://gitter.im/yongjhih/docker-fb-sleep-stats?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/yongjhih/fb-sleep-stats.svg)](https://hub.docker.com/r/yongjhih/fb-sleep-stats/)
 [![Docker Stars](https://img.shields.io/docker/stars/yongjhih/fb-sleep-stats.svg)](https://hub.docker.com/r/yongjhih/fb-sleep-stats/)
 [![Docker Size](https://img.shields.io/imagelayers/image-size/yongjhih/fb-sleep-stats/latest.svg)](https://imagelayers.io/?images=yongjhih/fb-sleep-stats:latest)
