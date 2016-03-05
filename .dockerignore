@@ -1,2 +1,5 @@
 Dockerfile
 docker-compose.yml
+docker-entrypoint.sh
+.git
+*.swp
