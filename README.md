@@ -21,9 +21,8 @@ Read the blog post: https://medium.com/@sqrendk/how-you-can-use-facebook-to-trac
 ## Usage
 
 ```sh
-FB_USER_ID={fb_user_id} docker-compose up
+FB_USER_ID={fb_user_id} docker-compose up -d
 ```
-
 
 ## Installation
 
